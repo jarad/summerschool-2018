@@ -1,5 +1,5 @@
 ## ------------------------------------------------------------------------
-iowa <- read.csv("https://raw.githubusercontent.com/heike/summerschool-2018/master/02-graphics/data/brfss-iowa-2012.csv")
+iowa <- read.csv("https://raw.githubusercontent.com/jarad/summerschool-2019/master/02-graphics/data/brfss-iowa-2012.csv")
 
 ## ------------------------------------------------------------------------
 library(ggplot2)
