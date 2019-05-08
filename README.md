@@ -1,5 +1,5 @@
-# summerschool-2018
-Material for the Midwest Big Data Summer School 2018
+# summerschool-2019
+Material for the Midwest Big Data Summer School 2019
 
 There are two ways you can follow along with the materials:
 
